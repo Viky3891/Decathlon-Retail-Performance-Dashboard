@@ -4,7 +4,7 @@ An interactive, single-page Power BI dashboard that tracks sales, profitability,
 
 ## Dashboard Preview
 
-![Decathlon Dashboard](images/Decathlon_Dashboard.png)
+![Decathlon Dashboard.png](images/Decathlon_Dashboard.png)
 
 ## Business Problem
 
